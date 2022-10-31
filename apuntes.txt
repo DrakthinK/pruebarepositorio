@@ -1,0 +1,7 @@
+git branch --/para ver ramificaciones y crearlas ,tiene que ver un commit
+para poder ver las ramificaciones
+git remote -v --/para ver el repositorio remoto de conecion,para el push
+git remote -set-url link_repositorio --/para setear una url http en caso de no tener autentificacion shh en el push
+git checkout rama --/para pasar de rama a otra
+git merge rama_a_unir(destino) --/para pasar tus cambios de la rama actual a la destino
+git pull --/para uptualizar cambios ,que hicieron otros programadores(update)
