@@ -1,2 +1,3 @@
-def func():
-  print("funcion desde mi entorno dev")
+def func(msg):
+  
+  print("funcion desde mi entorno dev"+msg)
