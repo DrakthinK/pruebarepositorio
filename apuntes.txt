@@ -5,3 +5,7 @@ git remote -set-url link_repositorio --/para setear una url http en caso de no t
 git checkout rama --/para pasar de rama a otra
 git merge rama_a_unir(destino) --/para pasar tus cambios de la rama actual a la destino
 git pull --/para uptualizar cambios ,que hicieron otros programadores(update)
+//////comandos///
+git branch branchone origin/branchone
+git branch branchtwo origin/branchtwo
+git branch branchthree origin/branchtheree
